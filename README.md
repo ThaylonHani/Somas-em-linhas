@@ -1,0 +1,1 @@
+Esse projeto foi feito para mim treinar mais o JS com o HTML, não dediquei muito no css pois esse projeto só serve para dividir,multiplicar, subtrair e somar os valores colocados nos inputs retornando em um input que não pode ser modificado somente lido, para mostrar o resultado,apertar o botão "calcular" que irá mostrar o resultado.

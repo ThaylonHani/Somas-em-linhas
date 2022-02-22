@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #B0C4DE;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #000080;
+    /* color of the scroll thumb */
+    border-radius: 10px;
+    /* roundness of the scroll thumb */
+    /* creates padding around scroll thumb */
+    height: 4px
+}
+
+header {
+    background-color: #ADD8E6;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 4em;
+}
+
+header p {
+    color: #6495ED;
+    font-size: 17px
+}
+
+main h2 {
+    text-align: center;
+    margin-top: 1.3em;
+}
+
+main {
+    text-align: center;
+    margin-top: -1em;
+}
+
+#Numero1 {
+    padding: 1em;
+    border-radius: 2em;
+    width: 15em;
+    font-weight: bold;
+}
+
+#UnitySom {
+    border-radius: 2em;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+#Numero2 {
+    padding: 1em;
+    border-radius: 2em;
+    width: 15em;
+    font-weight: bold;
+}
+
+#calcularNumeros {
+    padding: 0.5em;
+    border-radius: 2em;
+    cursor: pointer;
+}
+
+#Resultado {
+    margin-top: 1em;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    padding: 1em;
+    border-radius: 2em;
+}
+
+aside {
+    margin-top: 2em;
+    font-size: 1em
+}
+
+footer {
+    margin-top: 3em;
+    background-color: #ADD8E6;
+    padding-bottom: 20vw;
+    text-align: center;
+}
+
+footer h3 {
+    font-size: 1em;
+}
+
+footer span {
+    font-size: 1.5em;
+    font-weight: bold;
+}
